@@ -1,0 +1,1001 @@
+ID	Topic	Text	Sentiment
+1	general	Mmmm subway eat fresh... 	positive
+2	general	I may not be able to in on anymore late night interweb extetaganzas 	negative
+3	general	at starbucks! white chocolate mocha coming up! yeeees!..pulling an all nighter! boy do i love finals 	negative
+4	general	I do @TanyaMorgan .....its alll about motivation. in theory 	positive
+5	general	says it's raining hard. I'm afraid that I may get disconnected  http://plurk.com/p/11burr	negative
+6	general	@curiousg87 Chew slowly. 	positive
+7	general	What a beautiful day to daydream! 	positive
+8	general	@Audubon_Street hi brad!!!!!!!!!!!!! it was great hanging out with you yesterday! 	positive
+9	general	@sweet_starling Yes, it's a terrible movie from the late 80's starring Patrick Swayze as a bouncer. Hubby loves it though 	negative
+10	general	@jennettemccurdy I am watching a 1993 movie called &quot;Cliffhanger&quot; with sylvestor stallone...   	positive
+11	general	i'm at wrk and damn I'm tired.....I gotta lay it dwn earlier 2nite.....I was up till 3am  &lt;EnufCed	negative
+12	general	Studying for an exam. Tooooo much to go over 	negative
+13	general	Kunta: Biotch i have 2 Work thee stand @ Pride Gay Festival on Saturday  No San Jo!	negative
+14	general	@xstarstrucked no problem! 	positive
+15	general	This episode of Animal Cops is so sad. Poor cats 	negative
+16	general	@CackleberryKids julie is awesome! see how excited she was last night when she won then sooo upset when she knew she didnt do well 	negative
+17	general	Watching almost famous  If you love rock and roll or love music in general..watch it. But then again you might not get it.	positive
+18	general	@joyissoy glad to know this lack of pigment is in your genes too. 	positive
+19	general	@Puddlemoon My phone dieddd  I was on my mummas but OMG HELLL YES!	negative
+20	general	The 1st person to come to the BROADWAY ACROSS AMERICA booth at 9th and Long and say &quot;PUTTIN ON THE RITZ&quot; gets a surprise!!  #fb	positive
+21	general	@MonaMinx Heck me too heheh! Never said b4,..he my fave also ;) YES! Day off woohoo 	positive
+22	general	almost done packing 	positive
+23	general	Nooo! The pratt's left the show?!!? 	negative
+24	general	@courtrex My last gf had a real beard, my family were overjoyed when I brought her to a family meal. I wanted to be a wrestler also 	negative
+25	general	had a great birthday!! thanks everyone 	positive
+26	general	@savagestar so I was trying to be discreet as possible and then we took the pic and I got hugs from Trent, Ilan, and JMJ.  EEEKK!	positive
+27	general	@MikeTConsidine that tweet is a lie. it is a really crappy game 	negative
+28	general	@JMacOnline have a nice day 	positive
+29	general	going for a whole new style of bangs thursday, woot!!! 	positive
+30	general	@LizJonasHQ JB is having a live chat? where? when? please answer 	negative
+31	general	@All_that_Jaz  Sorry I caved in and went to go see Up with some other friends.  It was amazing!!  Wouldn't mind seeing it again. 	positive
+32	general	@4u2wear2 Thank you 	positive
+33	general	@brendon_k thanks for that, let me know when its done (ill msg the guy). Omg my ear still hurts, its so sore. Btw, March 2010, tourtime 	positive
+34	general	@gothwin Phew. Neighbours were out on the roof chatting until 5am because of the heat, so hot night and no sleep here 	negative
+35	general	forgot she was going to work on her global warming essay. it can wait 	positive
+36	general	@hollybowden were not always going to have each other. 	negative
+37	general	earthshake! that I didn't feel... 	negative
+38	general	@hummingbird604 I fell asleep at 8:30pm and now I'm up.  @ColleenCoplick  I'm getting old, I don't go out on Fridays anymore 	positive
+39	general	Fun, am achey and have a fever, just called off work :-/ on a good note the drugs just kicked in 	positive
+40	general	Ok ladies keep @AmericanWomannn busy w/her #hunkalerts and help me to grow my #babealert list Thanks for your support  #ilovemyjob	positive
+41	general	@Elaine_W_84 Yes, life is always like that, made of ups and downs  but as @PaoMiami says it, what doesn't kill makes stronger.	negative
+42	general	It's extremely annoying that any @[my handle] tweet from tweeps I follow now shows in my both my &quot;Recent&quot; &amp; &quot;Messages&quot; tab on #TwitterFox 	negative
+43	general	@CHEFski nada! Just getting thru the night! 	positive
+44	general	@nerdynerak That refizzle thing has made me want a soda. And we have no soda. 	negative
+45	general	Twit! Twit! I am currently blogging...   	positive
+46	general	I hit my shoulder trying to kill a mosquito....It just flew up my nose 	negative
+47	general	im tired  need to rest for 'nother day in school	negative
+48	general	i wonder if benneh will ever come back... im starting to lose hope 	negative
+49	general	@GauravSaha hahahah  MG Road. You'll surely get a discount if you catch me on the counter coz I have dyscalculia. At least I think I do.	positive
+50	general	in a few minute the power has been stopped. 	positive
+51	general	6am came way too fast. 7am came even faster. headache, still tired. wish I could pul a Maryanne today...i have work ethic, not happening 	negative
+52	general	Morrissey â I Have Forgiven Jesus ~ this song explains a lot of my negative feelings  â« http://blip.fm/~7pv3i	positive
+53	general	@TagAlongTess There's never a risk with bubbles hon! 	positive
+54	general	def only got 4 hours of sleep last night, but i'm more awake then i would be if i would have gotten 8 or 9???? whatevs... 	positive
+55	general	All dogs go to heaven. RIP little puppy in the middle of the street. 	negative
+56	general	@taeheckard Did anyone get it?  It's Unbreakable.  The comic book hero story. 	positive
+57	general	Another busy day at the office! Work it.....work it..... 	positive
+58	general	@espiritoart Something like 32 years to go if I retire at 65!! 	negative
+59	general	It's going to be a gorgeous day for a Chicago wedding 	positive
+60	general	@jadedownes why? 	negative
+61	general	@Lorax1515 noooo! i'll be at work 	negative
+62	general	@AddoraLive just make sure the quality doesn't suffer. A lot of them ladies prefer cheap outfits but lots of them 	positive
+63	general	At times like this I wonder why can I not live in the US? 	negative
+64	general	Last day in this chromy house 	negative
+65	general	I failed the writing test cuz i didn't have time to finish it 	negative
+66	general	@mfoley626 enjoy sitting in that jury pool room  are you FT so at least you get paid for the day by the ARS?	positive
+67	general	getting ready for my lunch break! 	positive
+68	general	My stuff is missing in my OWN room! Who could have done that~ Pls return it to me...Pls~ 	negative
+69	general	@organicsue not sure yet, there are lots of trails around here, we have a local trail guide @philtaylor54 so it will be a surprise! 	positive
+70	general	DQ for lunch today. I think I deserve a chocolate shake. 	positive
+71	general	@bathcsc: traffic lights at Windsor Bridge in direction of Weston/Bristol allowing 3 vehicles at a time.. 	negative
+72	general	@doctorfollowill Thanks for playing Trani and Mcfearless, see you again tonight 	positive
+73	general	Ugh i just lost the memory card to my phone and went on a hunt but i found it thank god 	positive
+74	general	Ok went to hoodwink tonight. Not so bad. Actually pretty good  now let's see how i feel on Sunday night	positive
+75	general	@Joosetyne lol I'm here open door porfavor. That would be cool if pinkberry actually delievers 	positive
+76	general	Listening to scorpion on way to moses lake. Rock out 	positive
+77	general	new on teitter, this is kinda good. I have headache 	negative
+78	general	@babygirlparis I thought Tinkerbell was dead. congrats on her being alive 	positive
+79	general	@andyclemmensen your wife is a lesbian 	positive
+80	general	@DianaBaur  One of those weeks, eh? Hope you're stocked up on wine at least ;)	negative
+81	general	@LauraBouvierx done!  did you guys have fun after i left?	positive
+82	general	Spicy black bean veggie burger... Thank you morning star... Followed by studying 	negative
+83	general	@desireeapril i like the hope stands alone one.  like the thing will be HSA. it's kinda catchyy.	positive
+84	general	@Taryll hey im tori  how are you?	positive
+85	general	@PerezHilton i wanna see 17 again too 	negative
+86	general	@jimbell1974 I could not have said that better! 	positive
+87	general	Dodger game with valeriee   super dope seatsss	positive
+88	general	I'm at school 20 minutes early  poooo	negative
+89	general	@LilPecan oh little pecan  why would anyone b mean to you?	negative
+90	general	lovely sunny day outside and im nursin a very bad hangova indoors  so worth it tho lolx	negative
+91	general	No one likes mr gwen-go  http://www.youtube.com/user/Mrgwengo	negative
+92	general	@DarleneZschech Ah!So jealous  Have an amazing, inspiring time over there, lookin forward to hearing what's happening&amp;reading your tweets!	positive
+93	general	sore throat 	negative
+94	general	I fell asleep  I hope jojo's revising and  not playing the sims 3...	negative
+95	general	I hate mornings when I have to get up for school... 	negative
+96	general	@SheToldMe you are welcome . Thanks for the feedback 	positive
+97	general	@marieskizo I don't like it, and I could only remember &quot;You spin my head right round right round when you go down when you go down down&quot; 	negative
+98	general	@mandyyjirouxx http://twitpic.com/3dtob - you were in a car accident?? wow. thats a banged up car. and a melted icecream 	positive
+99	general	feels better now  24hr hangover lmao. But WHY is my hair curly? my hair is NEVER curly, even after curling it lmao	positive
+100	general	Hi all.....how are u ? 	positive
+101	general	listening to mcfly on the radio 	positive
+102	general	Gutted phone still does not work  gonna have to be a trip to the t mobile shop me thinks!	negative
+103	general	My truck is a super, it has a cape 	positive
+104	general	City walk with jimmy, andrew and jesse. Gonna buy some dodger tickets...maybe 	positive
+105	general	@Caroline_S Bank holiday PITA? They're a welcomed relief here! It's the last for 3 months anyway so that'll cheer you up! 	positive
+106	general	plans to see objectified tonight have 'fallen off' 	negative
+107	general	my pictures not working, tweets! i need help  x	negative
+108	general	@NinjaFanpire That you performed that song with him TWICE. Is it the right person I'm thinking of? :laughs: Sorry, it's almost 4am. 	negative
+109	general	Goooood morning twitterland  I went to sleep at 3am and its officially 10am. Gosh, i need more sleep.	positive
+110	general	Getting ready to go to work. I don't wanna go 	negative
+111	general	YupYup, finna get spiffed up for this black and white party me and @AmberBADBxtch are going to . Lets get get get ittt  Follow @iamjreal	positive
+112	general	We are in for a nasty, nasty storm and comcast just went out completely and I can't track it. 	negative
+113	general	@Broooooke_ ur so lucky! ugh i'd give anything to go. im considering walking there i swear  have fun! xx	negative
+114	general	Tweet Dreams  	positive
+115	general	Lost herself in adrenalin rush at kasabian gig last night! Awesome 	positive
+116	general	ChiPotLe! Thx Les  ...but sshhh, keep it on the low, I'm not supposed to have this lol	positive
+117	general	Ding Ding! The wrestling match between Me and the Attack-Terror Cat is officially a draw! I will be victorius one day 	positive
+118	general	5 months today.  it feels like its longer but at the same time shorter.... &lt;3	positive
+119	general	I'm done remodeling for the day. I got the core of the job done, and my room's assembled. Got... Fifteen boxes left to unpack.  but vi ...	negative
+120	general	missed! 	negative
+121	general	@williger oh no! Sorry... but I couldn't help but laugh at your tweet about losing your car. 	positive
+122	general	@So_Talia Athens?!?! What r u doin in my hometown? 	positive
+123	general	@Brad_Jolly I'm sorry baybee  I'll come help :]	negative
+124	general	@greggarbo and i took a picture of u in rio! ok, of ur back  your and ryan's back... I will keep trying and i will take apicture WITH u	negative
+125	general	@Tinkersdamn ah yours is better! enjoy 	positive
+126	general	good morning twitter. i'm eating stale cheerios for breakfast 	negative
+127	general	@TreylinRae yeah, I could see it now. Twitter has a pretty good logs 	positive
+128	general	ugh..last week of freedom 	negative
+129	general	@ganann well doh, but somehow i don't mind.  then again, i'm not in midtown yet 	negative
+130	general	@mckaysolame Please tell me why twitter is rejecting me. I tried putting up a new picture and now I don't have a picture. 	negative
+131	general	@ieeeeriss Yes I live in France and weather's not good at the moment! 	negative
+132	general	@ecogordo thanks. is there another startup session anytime soon? i wish i had known about this one earlier 	negative
+133	general	@KatyParis and me i can't find pitou between my legs 	negative
+134	general	Bleargh. I can never clean as much of my house as I want to before work, no matter how early I wake up. Today: sink, laundry. 	negative
+135	general	Wipeout has to be the dumbest show ever. Waiting for the game to start! Lakers will win 	positive
+136	general	@MyDailyRoutine hahahahahaha no! i wish! but she said to retweet her w the name of ur city so she can come down to perform her new album 	positive
+137	general	I have decided that I do not like not being able to have stimulating, intelligent debates and conversation at home 	negative
+138	general	missing the football season  Hurry up and kick off again plzzzz. And hope we have Setanta still alive for the live games!!!!	negative
+139	general	Ortho appt at 11:30. my grandmother is taking me...  yikes. Martin just woke me up; i wish he didnt.  &lt;Tilt-a-wirl FTW!&gt;	negative
+140	general	I miss Chicago 	negative
+141	general	Camp was fun. My arm hurts tho lollll. Can't wait to try out in Highschool. The uniforms are skanky and cute. Tee Hee 	positive
+142	general	@chrisbrogan Makin' a little hash of things? 	positive
+143	general	Oh no, it's Monday again.  #fb	negative
+144	general	better now 	positive
+145	general	@despondentdeity Welcome to Twitter friend 	positive
+146	general	@ddlovato good luck with the show! 	positive
+147	general	just learned the hard way that Lightroom's setting to write changes to an XMP file are CATALOG-specific 	negative
+148	general	@SmallEyez dude, i have no bday arrangements 	negative
+149	general	havin a bad day nd being so bad mood dat i just .... sorry 	negative
+150	general	kickstarting my work.. 	positive
+151	general	gettin' ready to go to the beach~ 	positive
+152	general	finishing off a good night with a cold beer   you know you're jealous	positive
+153	general	So sad to read about Ed McMahon   I hope he and Johnny have a show in heaven~ RIP	negative
+154	general	@trevorjames awwwwwwwwwwwwww. methinx we should get you some lovely followers on follow friday! 	positive
+155	general	@xUMxx  @teammxjacobb everything dnt clear much up..	positive
+156	general	back to work tomorrow for the next 5 longggg days ... 	negative
+157	general	Mouth hurts 	negative
+158	general	Some guy trying to get me drunk last night..but he couldn't keep up! 	positive
+159	general	@maggit  i'll visit ny 'til september, no diggnation for me	negative
+160	general	@iNestle Nessa what are you crying for? Don't cry! 	negative
+161	general	Ah Sis(: We Get To Hang With Them Soon!  You &amp;&amp; T&lt;3 Me &amp;&amp; B ;) That's The Way Me &amp; B Roll!&lt;3	positive
+162	general	Happy 4/20!!! Celebrate responsibly my fellow friends 	positive
+163	general	@spanglegluppet there are some WONDERFUL photos here!! you've got talent, Tim  particularly love the purple flower, the maple ...	positive
+164	general	I wish i could afford the max bemis song shop. 	negative
+165	general	On my way to downtown LA. Mann i hope i dont get stuck in traffic and gotta park far as heck again :-/ wishful thinkin...i know 	negative
+166	general	BEACCCCH 	positive
+167	general	http://twitpic.com/8cn7j - I miss them.. 	negative
+168	general	@totallyninja I'm sure it does, I feel so awful for you. Thinking about losing a pet makes me want to cry  ilybb&lt;3	negative
+169	general	Here's my list, Lydia, just so there's no confusion. - themarsresolution:  You stole my WAS and Ting Ting... http://tumblr.com/xf322vvjf	negative
+170	general	Gah gave vodaphone wrong PAC code from 3. Means I have to wait till monday for touch pro 2 3d 	negative
+171	general	Got done cryin with Joey. Shes like my sis! I am going to miss her like crazy! We are having one more overnighter at the hotel 	positive
+172	general	replaying TATW # 271  ( it was that good ) 	positive
+173	general	Still having a headache. Its a bad one now.... 	negative
+174	general	@officialnjonas Why do you never answered me???  i love you	negative
+175	general	I'm going to get ready now. I really need to before it gets much later. Back soon everyoneee  xOx	positive
+176	general	@minorityx thankyou! were so excited for party scene and hustler. no circles tho 	negative
+177	general	@stuartmcintyre Does this mean we'll have people shouting track names at their phones on the train now ........... great! 	negative
+178	general	Summer is here! 	positive
+179	general	@cdeblaay If your lucky synod will be canceled next year and you can go in 2011 when it's in San Francisco 	positive
+180	general	Sending 2 unguided missiles to the caterers.  Driver + handyman... Will they reach without getting lost is the 2000 rupees question 	positive
+181	general	@sharping the future is a mix of awesome and train wreck, this insight brought to you by emo undertone 	positive
+182	general	Teacher of English and Turkish 	positive
+183	general	Workkkk. I don't like my hair today 	negative
+184	general	Needs to watch the new season of Desperate Housewives! OMG! Mike and Susan forevs! I wasn't able to catch up with the new season. 	negative
+185	general	@G4TV To be honest I wasn't that thrilled about their announcements. Ubisoft really let me down 	negative
+186	general	@ohsailor hahaha you didn't answer my question silly girl 	positive
+187	general	I can't stop sleeping! I miss my sister   http://twitpic.com/4gp9p	negative
+188	general	@thomasgraham  Good news 	positive
+189	general	@Wookiesgirl thanks you guys are awsomeo 	positive
+190	general	So I can't wait for the new season of The Hills!!! I enjoy Kristin but I will miss @LaurenConrad! 	negative
+191	general	Q of S over, what a very dull movie 	negative
+192	general	@ShouldBeBlond lmao, deep breaths. you can put them on tomorrow night.. XD im putting that video on mine later 	positive
+193	general	@Missinfo ouch in these times gettin fired aint nice smh 	negative
+194	general	enjoying a dry martini w/ two olives and a magazine. laying in bed watching this show dirt on dvd. all the good ones get cancelled. 	negative
+195	general	ATL pics up on my facebook/myspace.  comments are awesome. gahh im so tired..think ima go sleep now!	positive
+196	general	Chemistry quiz... 	negative
+197	general	&quot;Don't Stop Me Now&quot; -McFly  	positive
+198	general	second chances-october fall 	positive
+199	general	Heatin' up the grill! Come over! Seriously, we are getting sick of just eachothers company! Haha 	positive
+200	general	I feel sore  Going to take a hot shower!	negative
+201	general	@AndreeaBerghea croissants and milk and honey- my healthy breakfast 	negative
+202	general	I have black sparkly fingernails!!! 	positive
+203	general	@JennW Congrats! Also, neat, because our 5th is tomorrow! 	positive
+204	general	@killaam ugh I miss my wii too. Its with my cousin in Denver 	negative
+205	general	Happy June! Muggy in Chicago must mean summer. 	positive
+206	general	Just bored really 	negative
+207	general	@Brera4wl i'll check out .com when i get home from this freaking car journey :p could be another hour yet  and we all know he is a sex god	negative
+208	general	http://bit.ly/SS2nA  love this song!  its a blink 182 day today... again!	positive
+209	general	@mariqueen http://twitpic.com/60vsh - I concur  Wow @aialamode is absolutely beautiful  very nice pic, is this the better quality u  ...	positive
+210	general	@JonathanRKnight was wishing i was going fr wpg to the Tor show on the 21st next month but didnt get that on my 21st bday on the 15th but 	negative
+211	general	loving so much Arif Ayubi 	positive
+212	general	Nothing much to do today. listening to music. Bored 	negative
+213	general	@Andysi1928 http://twitpic.com/564ew - wow i love this girl MILEY CYRUS this is a good photoshot 	positive
+214	general	good morning my little sunshines!! hahaha yay for making new friends  oh and almost running people over!	positive
+215	general	@BryanRicard lol yeah i could never act like a boy. girls clothes are too cute  aw im cute? =p  how sweet	positive
+216	general	@ryanamstad through her bad time. Im glad things are looking up for her  I hope she gets more time to her self though because i would...	positive
+217	general	@AlohaArleen I didn't know it was THAT funny but hey  #smilesandhugs	positive
+218	general	@JamFactory how much will the board be dude? looks really nice 	positive
+219	general	@chrisfoley Thank you!  Fascinating.  BTW, I added a comment to her post w/info from YOUR blog about Air Turn.  	positive
+220	general	I don't think STS-127 is ever going to launch. Poor Japanese researchers won't ever get to expose their experiments to space. 	negative
+221	general	@hayleyjfoster cup a soup tastes like plastic.. may as well eat straws 	negative
+222	general	BELIEVELAND 	positive
+223	general	@DHCOSBY I fully agree   I've been astounded lately the more I step back and see pieces (and people) set in place.	positive
+224	general	But he just asked me out on a date tonight. 	positive
+225	general	I have internet at home now so World Wide Web get ready for kronos overload 	positive
+226	general	I just woke up. I love being a senior and not having school anymore. 10 more days  :/	positive
+227	general	@vishaltom 	positive
+228	general	Going for a drive  then will definitely be getting stuck into my work!	positive
+229	general	I'm awake at 5.30 again 	negative
+230	general	http://twitpic.com/5djx4 - The pile of marking that stands between me and bed 	negative
+231	general	@andrewtandoc hehehe... Yes, you're right... They must be prepared for anything that is thrown at them! You will be missed too 	positive
+232	general	feels sad coz i wasnt able to play with the guys!!!  http://plurk.com/p/wxiux	negative
+233	general	@xoMimi  I AMMMMMMMMMMM!!!!!!!!!!!!!  im a sweet kind soul	positive
+234	general	@SpinCycleEgo Thanks! Yeah, so far so good, I got the family obligations out of the way.    How's your weekend so far?	positive
+235	general	@chantalclaret Isn't it hard fostering dogs though? Like, getting attached to them and then having to give them away..? 	negative
+236	general	Watching a Disney movie! It's cold, I am under a blanket, drinking coffee with a bowl of popcorn. Happy times!! 	positive
+237	general	Babysitting! Twitterverse, say hi to my sister  http://mypict.me/2cfE	positive
+238	general	Good Night! I'm sleeping in tomorrow 	positive
+239	general	@katetamse77 ughhhhhhhh.   i miss him. and his hepititis havin self.	negative
+240	general	Wee ones for the last time 	negative
+241	general	@trusttommy I've heard rumours that you want to be an asbestos farmer. 	positive
+242	general	morning all  and this time i'm actually awake in the morning :O	positive
+243	general	What a fabulous evening/day. 	positive
+244	general	not feeling good  didnt leave the house all day - didnt eat anything, either, because i slept most of the afternoon!	negative
+245	general	@calbo thank god your here wasnt on tonight... 	negative
+246	general	@Brittanya69 hi i love you 	positive
+247	general	@deejayduane thanks my dear!! N happy birthday to uuuuuu by the way  see ya friday	positive
+248	general	@Saganlives oops that man  Ill DM you.	positive
+249	general	@zetab I hope so too 	positive
+250	general	I was readin News of the World today and i want to give Katie Price a big hug.I no she doesn't know me but the story in there made me cry 	negative
+251	general	Goodmorning twitters! This is my last day of vacation so i'm sad 	negative
+252	general	@cpfcrox they play as much as 20 different songs? really?? feels more liie 5 when i'm at work 	negative
+253	general	finishing up a paper  dinner...then rellaxxx time	negative
+254	general	season is over, St Johnstone take a 3-1 lead, bah and humbug  I can feel some aclohol coming on later....	negative
+255	general	@guyoseary i wish... but the tickets are overpriced 	negative
+256	general	@hopeinhell i'm really good...tis Friday night you know 	positive
+257	general	@DanielKGlenn Ok sooo I got pics on my last trip they did not compare to yours LoL...not 2 mention NO DumDums 	negative
+258	general	I probably shouldn't've eaten that big piece of sticky date pudding. I don't wanna spew onstage. 	negative
+259	general	Morning! Bah Car won't start.. waiting for the ANWB.... 	negative
+260	general	Happy mother's day to all moms! 	positive
+261	general	@jordanknight http://bit.ly/sJASS  Ah summer time is comin'!!! 	positive
+262	general	@rustyrockets plz cheer me up with a reply jus found out the guy I was seeing is married 	negative
+263	general	@ccmatthews aww u sound a lil down  . did u eat somethng?	negative
+264	general	@mattpro13 your cute 	positive
+265	general	is in love with the most beautiful girl in the world and plans on doing everything to get her back  @_gemma	negative
+266	general	Heading to London. So hot today! Wish I was wearing a dress/skirt but I daren't not knowing tomorrow or Wednesday's weather 	negative
+267	general	thankin my lucky stars my grammy is ok w/her 4 fractured ribs, ugh 	negative
+268	general	@athoob YUM! Bil3afya  and sorry about your fish!	positive
+269	general	Live chat in 7 minutes ! You have only 30 minutes for talking with me.... come onnnnn !  hahaha EMAIL jordanpruitt0@yahoo.com	positive
+270	general	he got it from target...kidquotes cards...my favorite...the guy knows how to shop    what a cutie.	positive
+271	general	Bye bye Houston 	negative
+272	general	@demilovat0 your show in sao paulo, Brazil, was the best day of my life, thank you for that 	positive
+273	general	@dragosroua Thanks. I had just gotten a more original answer than yours http://is.gd/LlVY which made me think I can't. 	positive
+274	general	&gt;.&lt; ew feel horrible today stomach churning.  in San Antonio, TX http://loopt.us/FZONIw.t	negative
+275	general	@Alyssa_Milano Can't wait! I hope your character chooses the novelist 	positive
+276	general	@parastoo how is our london girl ?  are ur vac short or u r staying during summer? miss u	positive
+277	general	i fancy a shake away  x	positive
+278	general	@scorpio510 Thanks for your rec.  	positive
+279	general	Is tired and sore and heading 2 bed 	negative
+280	general	guess what my wireless internet bill is.... 127rupees  less than 3 dollars!	positive
+281	general	I think Im gon call it a nite,then again,who knows what's gon go on before the night is over with! 	positive
+282	general	Is very tired and cold and sick 	negative
+283	general	I may just take a break from myspace, idk yet. Someone make me stop thinking about this. 	negative
+284	general	I seriously want to call in today, I need a break... But no, I can't 	negative
+285	general	@C_S15 @RocketMinx Did you see the Burnout tweets!? Have you both got BSI yet? Sad @wilbossman is out. 	negative
+286	general	email problems have hit the BFM office  cuppa anyone?	negative
+287	general	@poots But it's got bananas in it.  And cake is a food group.  Two of the five a day sorted there! 	positive
+288	general	@Leesa_ allright! that's the way ... 	positive
+289	general	@erinmc316 please don't. 	negative
+290	general	.@Zanna85 haha yeah cheap and dirty right?? 	positive
+291	general	i'm depressed  and i don't know why 	negative
+292	general	is now a proud married man 	positive
+293	general	@darker_artic It was dead on a pound at the one opposite Hillsborough y'day. It's so ridiculous isn't it? 	negative
+294	general	Just heard I may have to work 6 day weeks for 6 months or so.  I'm tired as it is!	negative
+295	general	Confed Cup was loud, and noisy, and unpleasant, and the ref was DODGY - but I'm really glad I went, I feel like a true South African 	positive
+296	general	Im packing for my trip back to cov tomorrow night! 	positive
+297	general	Want to see why we DON'T post paparazzi pictures, this is why. INSANE.    http://bit.ly/1vNSA	negative
+298	general	OMFG girls! I have awful news *sobs* I don't know if I should tell you on this or just direct you to the LOVE comm! I feel awful, sick 	negative
+299	general	@Jantunstill hehe was watching and mum had just come back from Bath and West Show so had some goodies heh 	positive
+300	general	@thedomesticdiva You can do somthing besides run errands... Who knew. 	positive
+301	general	@Kristinax  ok cool. Work is really good..  So tired been shooting since 8 this morning.  Let me know how it goes.xxxxx	negative
+302	general	@kreativlink thanks K   i'm so lazy today i just went and got another coffee .. slow start to the day ;)	positive
+303	general	Took the boys to eat and play, hoping to get some reading done. I still have 2 1/2 chapters to read 	negative
+304	general	@CassieFX can't watch on phone 	negative
+305	general	i still only have 63 followers..........   the number stopped going up???	negative
+306	general	So my 10-y-o's blog is less than 12 hours old and someone already scooped his content. Nice. 	negative
+307	general	@HeatherHorror Finally finished since 10:30am! Relaxation and movies for the rest of the night 	positive
+308	general	@lejaders OMG WHERE ARE YOU  I MISS YOU.	negative
+309	general	@mileycyrus gooood luck  i bet i won't see the awards on tv in the uk for a while yet!	positive
+310	general	thinking technology hates me this morning- Blackberry sat there thinking for an hour while I waited to make a call and car radio is out 	negative
+311	general	@riyugnas Thanks. 	positive
+312	general	@_Cantus_  real nutter big time yeah 	positive
+313	general	Mondays are bad enough. No angel. 	negative
+314	general	I'm pretty sure that @aztinad hates me now. I made everyone suprise act hug her &amp; she looked pretty pissed  she'll appreciate it some day.	positive
+315	general	@meaningoftruth i know mm kinda hard to explain mmm i hope to get GD news  later but mmm2b true i dont think so  mmm btw in wht u work? XO	negative
+316	general	what a great day loves it 	positive
+317	general	just came home from billy elliot  i laughed i cryed i loved it	positive
+318	general	Sittin in the back of big red with brett and tristan, Alexy just left...i miss her 	negative
+319	general	@DjJonnyMatrix I know we are loosing 	negative
+320	general	@missmalini ya I am from Mumbaikar it self ( Amit Shabhag). I was wondering if you are interested in commenting on it. 	positive
+321	general	Misery really DOES love company! I don't think I'm miserable enough for most people. 	negative
+322	general	what a pretty day  going out to play	positive
+323	general	@Stephalopolis Aw, hon ... I'm sorry your mouth hurts so bad.  	negative
+324	general	at home ...my new home  it's good but lonely	negative
+325	general	I think I have magical powers. Whenever I randomly download an app at the BOTTOM of the store, it's in the top 50 within 48 hours! 	positive
+326	general	music time  going to work at some tracks with @esemdi	positive
+327	general	shopping with dadddy 	positive
+328	general	babysitting the sister. missing out on eyekah's graduation party 	negative
+329	general	Two weeks into bathroom remodeling and 1,000 dollars later.... i'm only half way. 	negative
+330	general	I regret handing over the remote now 	negative
+331	general	@AJMahmud omg!!!b i just saw the call of duty one its soo funny 	positive
+332	general	Pretty sore! The little things frustrate me. I can't believe I can't even pick something up off the floor!  Praying God gives me patience!	negative
+333	general	sitting here with my rabbit who looks like a spaceman. he has the bowl collar thing around his head 	negative
+334	general	@MsFitUniverse Hey Lisa! Sorry I missed you while u were in GA  - must do next time!	negative
+335	general	The Pirate Bay: Don't worry - we're from the internets. It's going to be alright.  http://bit.ly/17gy87 #tpb	positive
+336	general	@barrondesigns Oh no! Glad all is well. That's no way to start your day.  	negative
+337	general	@mrpower Oh fuck! Sorry old chap.  	negative
+338	general	@_squeekss // haha yeahh 	positive
+339	general	Sway sway baby ticks Melbourne sold out ??? 	negative
+340	general	i have no more room for physical CDs or vinyl. my turntable is broken anyway. 	negative
+341	general	@ddlovato , demi when will enter my life and make it shine 	negative
+342	general	With my Nikkayyy! 	positive
+343	general	making wontons mmm 	positive
+344	general	listening to leftrightleftrightleft, coldplays free albumette, i miss live music 	negative
+345	general	@Liturgy thanks for the link, have bookmarked it .... any reason 4 giving it to me? I Don't like the thought of Eucharist not on tongue 	negative
+346	general	@asherrobinson not really. ugh.  it's just rough.  but thanks for asking!    and what are you doing at rlt?	positive
+347	general	Vegas was swellll.... back to work 24/7 	negative
+348	general	 When will my &quot;hottie with a body&quot; points kick in?? She's a ginger and she's already got like 275 points?! Not fair...	negative
+349	general	working in 8 hours 	negative
+350	general	@wildasaur Omg!! U toatlly stole my favourite part of the movie 	positive
+351	general	I'm positive this isn't where I thought I'd be at 34 when I was a child! 	positive
+352	general	That means I WILL miss my Frankfurt to Manheim train... 	negative
+353	general	is Burnt  Very Bad Times.....	negative
+354	general	It's nice to know that my bday(today) is the same as national egg day 	negative
+355	general	Eating bagels and drinking mocha. All while reading the entire Y: The Last Man series in one sitting. Nothing is getting me off this bed! 	positive
+356	general	Was mowing the jungle at bottom of my garden yesterday. Blade caught a slow worm and fatally injured it. Feel guilty as protected species 	negative
+357	general	@JeffAbel Unfortunately, yes...not outside!  	negative
+358	general	Half term. sunny  lots of sunbathing and sport  x	positive
+359	general	@adamharward My pleasure - Green prefab is my new religion 	positive
+360	general	Miami Countdown: 12. Starting to hate my job : Miami Countdown: 12. Starting to hate my job  http://tinyurl.com/n4eh2o	negative
+361	general	does anyone know where i can watch the MTV Movie Awards online??? 	positive
+362	general	@kylejames I'll be gone  Moving to North Carolina at the end of July.	negative
+363	general	I am very annoyed and disenchanted with the whole male sex right now. Someone please come along and restore my faith in them. 	negative
+364	general	@dubdollar I love your smiley faces!!  	positive
+365	general	Besides the boose we are now going for the second most important order....BBQ stuff!! MEAT MEAT MEAT (and some veggieshit for ivy  )	positive
+366	general	About to go down to the pool at the hotel. Sac town is so nice 	positive
+367	general	waking to the sound of pouring rain......   not good for the oxfam walk 	negative
+368	general	@Amileegrant yeah, im going to do it for workj experience next year and see what its like 	positive
+369	general	@iasher Buying a new one this year, so I didn't invest on the Leopard. meh! Web or Destroy Twitter does the trick. Plus I have my iPhone 	positive
+370	general	@PLACEBOWORLD just wish it was open to more people cause we might go even if not living in the UK! ... 	negative
+371	general	@semisara video is for new hardware only. you'll need to find another way to make your dirty home movies. 	negative
+372	general	@officialnjonas I saw Up just last night right before the Live Chat! It was so good! You'll enjoy it! But, I cried. It's sad at times... 	negative
+373	general	wants to see &quot;The Hangover&quot; so badly!!  maybe next Saturday, hopefully!	negative
+374	general	@stigsbf I know.you had no choice. 	positive
+375	general	@SirBarley I'm doing good, Barley! How are u? My Tuesday has bn a little boring, bol. Mom wasn't home 4 most of the day  how was us?	negative
+376	general	Drama Exam at 1... hope I get a good question... wish me luck! 	positive
+377	general	tweetdeck isn't working 	negative
+378	general	@marktkenny You wrote &quot;Everyone stereotypes...&quot; No, everyone doesn't. Sorry, former English teacher &amp; logical fallacies catch my eye. 	positive
+379	general	well thats a bummer.  nobody showed up for my class 	negative
+380	general	@dbq eto just trying out twitter hehe cool. kita kits during clay 	positive
+381	general	going to sleep, I have work in the morning 	negative
+382	general	Last day in Alkmaar  Soon going back to the 'real life' Blargh.	negative
+383	general	@sexinstilettos its cute. and i like the name 	positive
+384	general	appreciating the joy of music and friendship  all is full of love	positive
+385	general	MAN I HAVENT BEEN ON HERE ALL DAY BUT BOOBIES LEFT ALMOST AN HOUR AGO AN I FEEL LIKE IM ON CLOUD 9  WHATS GOOD SEATTLE	positive
+386	general	The one day i plan on sittin by the pool, it clouds over! 	negative
+387	general	maths has gone alrighty.... depends which questions come in the exam tomorrow    i need atleast 60%!	negative
+388	general	Is on his third G1  fml	negative
+389	general	working on symbian 	negative
+390	general	hotttttel paaaarty  seee ya'll later,	positive
+391	general	Good Morning 	negative
+392	general	Denise is flying to CA this morning for 7 days...gonna be a long boring week for me 	negative
+393	general	@jonasbbzx3 i knowss  i hatee Scienceemann	negative
+394	general	@yakobusan Twitter is ok is you use https, but Flickr is blocked 	negative
+395	general	@jamrock where did Top Cat go? 	negative
+396	general	@stickyfeet2 well congrats on your secret good news  	positive
+397	general	Will be computer-less for almost 2 weeks while my Dell gets sent in and fixed 	negative
+398	general	just woke up. reading time 	negative
+399	general	writing an essay for English... I hope I do good...I really need to get a 2.0 this semester! I hate having bad grades 	negative
+400	general	I hope Celebs reply on my posts 	negative
+401	general	Assign.Ed. says things are too hectic for me to finish up my story for at least three days. So much for doing more stories before leaving 	negative
+402	general	@Skyelike yes she is first lol 	positive
+403	general	http://twitpic.com/6ajf6 - I miss this 	negative
+404	general	Iliana fell backwards off of her bed, into her closet, and has a big boo-boo on her lower back now where she hit on the toy box 	negative
+405	general	Well I'm 21 now.. Have no idea what happened last night.. I wish @mikeyshim was here 	negative
+406	general	Great trip home 	positive
+407	general	http://twitpic.com/6bm08 - The interview  Thaanks @odiibo	positive
+408	general	Happy 1st day of the month everybody! 	positive
+409	general	OH: i need a nap sooo badly  http://tinyurl.com/n5lowy	negative
+410	general	@tophatdog Glad to hear that...i'll help u and spread the tweets until scooter safe and sounds at home!  x	positive
+411	general	Lost my access.  Guess I'll watch it tonight when I get home (DVR). Keep me posted people.	negative
+412	general	10 hour work days this week, blah 	negative
+413	general	@MatchesMalone Vaaay more ... than a 140 characters....  	positive
+414	general	is scared 	negative
+415	general	was like the first time i'd seen luke in ages too!  nice seeing him. Good times.	positive
+416	general	hung out with joe for the afternoon! so much fun! i now miss my girls down in nola 	negative
+417	general	@stephenofficial I bet the London shows were fab! Roll on Newcastle &amp; Glasgow - so long away.  Possible chance I'm adding Manc - oops! ;)	negative
+418	general	Good Morning  I'm still so tired but I couldn't sleep anymore -.-	positive
+419	general	@imjstsayin I actually like them too........when I am at home! 	positive
+420	general	@tanilicious Do it!!!!!!! Start feelin' guilty 	negative
+421	general	I hate doing presentation 	negative
+422	general	B-Day care package from my bestfriend includes; dunkaroos, kicks, concert ticket, Final Fantasy VII, vinyl, Amadeus on DVD, and 2 books 	positive
+423	general	@djlori its all good!!  ill def give u a buzz when i get outta work. I heard you'll be @ HIN!	positive
+424	general	@charveymac Thanks! I think so too. 	positive
+425	general	mm it was cold in your shadow anyway. Ooh monday 	positive
+426	general	ignoring malls and dedicating her time for family this weekend, isn't that sweet 	positive
+427	general	@sway_bay_bay hahahahaa 	positive
+428	general	Day 3...seth thinks its a virus, bit I don't think so. Wanting to go home 	negative
+429	general	@qreyes As far as procrastination when it comes to writing: let me know when you find a cure  I procrastinate until the very last minute	positive
+430	general	MTV Movie Awards with @zafla, cooking dinner 	positive
+431	general	@ChesterBe Have fun and dun work too hard, okay hehe ;) And we're sure you will, like always  Wish u a nice day tomorrow! 	positive
+432	general	 @Canuckflack Speaking as a historian, WTF do you incorporate twitter buzz by upper middle class North Ame.. http://tr.im/oFLS	positive
+433	general	@ReineM Aw, thank you  I wish I could play the sounds of the mountains for you...	positive
+434	general	@genedthecure Thanks 	positive
+435	general	im going to fantasy island today with Jazz Band it should b fun  i need to get ready now.	positive
+436	general	I say that joomla ride!! 	positive
+437	general	HUNNIES. gash! haha. NO ONE would ever replace you in my heart. GASH tlga. i love my super summer with you guys. wit the seniors. GASH! 	positive
+438	general	Calling it a night while falling asleep to the my neighbors loud ass music but i don't complain its Anthony Santos live  ? happy as ever.	positive
+439	general	@georgeharito, I found the RAM 	negative
+440	general	gnight yall 	positive
+441	general	can i go home yet?! 	negative
+442	general	@palm I just arrived at my local Sprint store I can see the LIVE display in the window it's tempting. P.S. I'm first 	positive
+443	general	I bought a blazer today and some jacket haha, damn I still want the dress 	negative
+444	general	@LizLieu at least you have position in jennifer  gl!	positive
+445	general	The iPhone 3.0 update turned my phone into a slug.  	negative
+446	general	@Jarrelgotswaq My Everything By Mila J almost got it ri buh its too complicated 	negative
+447	general	i have been starving myself all day, untill i finished that stupid essay. now i may eat 	positive
+448	general	i love flowers  laundry &amp; sushi...	positive
+449	general	@reddiamond007 Get 100 followers a day using www.tweeteradder.com Once you add everyone you are on the train or pay vip 	positive
+450	general	is planning to run at Robinson Preserve tomorrow. 	positive
+451	general	@caseymariex Honestly I just think that makes the Kim one seem less special. Poor Kim 	negative
+452	general	Trying to ward off a migraine 	negative
+453	general	@taylorswift13 jaja u are soo cool .. a day will come to the South America, Chile? .. please .. 	positive
+454	general	@hystericaldoll i love Niley!!! 	positive
+455	general	@sergiusens Same here for more faithfullness. Un(fortunately) I couldn't remember all the details from the book 	positive
+456	general	7:30am -&gt; RM410 GoodSams -&gt; surgery. &quot;I hope they can stop it&quot; -Batman Wish me luck. Cuz it's scary procedure. 	negative
+457	general	@barbaraphillips I had a great day! I reached my 10km milestone for my training for marathon in October! I'm really happy! 	positive
+458	general	@justthierry Thank you 4 the FF! Hope you have a blessed day today!  Your friends in Christ!	positive
+459	general	The heat index at the Beach today is going to be 105 degrees... I can't wait till August when it gets hot really hot.... 	negative
+460	general	@GOODENess357 lol yes I did say that and I'm sticking to it till proven other wise 	positive
+461	general	why cant i sleep anymore? yesterday was like a trip down memory lane. it was nice 	positive
+462	general	Susan Boyle is still trending ? &gt;.&lt; she makes me sick lol. leave her alone but. poor wee women just wants to go home to her wee cat 	positive
+463	general	@Becky_1991 hell yeah  Bcz I miss them lol. whatssup	positive
+464	general	@philo reply to my texts  you cant even read this but mehh	negative
+465	general	@randiervin hmm not sure if i wanna get that yet.  we'll see.  esp.since i can do the casual carpool.  maybe in the winter. 	positive
+466	general	@tinabinatooreal it depends. eh. but what's wrong 	negative
+467	general	was hoping to become ambidextrous by doing all my study left-handed, but it's too slooooow  hehe	negative
+468	general	I will never get past level 3 at munchkin. 	negative
+469	general	oh my gosh what a day today such a procedure to get to the youth meeting tonight haha...I cried 	negative
+470	general	OMG. ADAM and BOYFRIEND?  Why Adam? Why?  Oh well..he rocks anyway..	negative
+471	general	@vasbestkept You got skills like that!?!?! Can i get a plate?? LOL 	positive
+472	general	...in Europe we're having #elections, not so many care that much...but I Must 	positive
+473	general	I was out testing my new Skikes www.skike.com , much better than rollerblades, especially on dirt roads. My new sport 	positive
+474	general	In Poznan  I love holiday!	positive
+475	general	is feeling with cold, but isn't actually all that bad 	positive
+476	general	hates it! all of it! 	negative
+477	general	@GeorgiieLu Aww thank you! It means a lot to me to hear that 	positive
+478	general	@xRYLEx nice! cant wait to see it 	positive
+479	general	@TheLastDoctor Voted again! Only several thousand more votes to go. And no-one's put me forward. 	negative
+480	general	US Govt owes record $63.8 trillion = $546,668 per household.   Ya wanna write a cheque for that?  	positive
+481	general	I love this weather, I haven't slept this long in ages. 	positive
+482	general	I look forward to that the school is ended   It's very long !!	negative
+483	general	I'm definitely excited to go back home to Granada though, for more reason than one! 	positive
+484	general	I feel like crap  . . Ugh class tomorrow 	negative
+485	general	Going to see The Hangover with friends 	positive
+486	general	BlackaRicanMa You should've went to House in Underground. That place be packed every Friday! Sorry boo boo. 	negative
+487	general	said goodbye to her long hair &amp; HELLO TO SUMMER HAIRCUT&lt;3 its bob/A-line thing..hmm i look adorable 	positive
+488	general	@unspeakableaxe Oh bummer, I guess they don't want me there, either. 	negative
+489	general	@GoMamaGo1 There should be family naps when everyone has a little rest! Sometimes the parents need the naps more than the kids 	positive
+490	general	My mouth is offically numb haha ehh 	negative
+491	general	@_amberlovely I know you could  I thought you were going to... then my fish wouldn't have come out the way it did. Smileys ok though!	negative
+492	general	@Hatz94 aw junk everytime i try to join it says unknown error  lame ha	negative
+493	general	@ashleyluvsjbvfc i need hugs 4wm s0me vfc guys and thomas  i cant call hm a vfc guy anymore *crying* bt thanx 4 the hug..	negative
+494	general	@StuckInLaLaLand Good thanks! and yourself? 	positive
+495	general	Watching the Canucks vs blackhawks game @ elephant &amp; castle pub. I'm on a no beer diet  http://twitpic.com/4wa1v	negative
+496	general	@Zac_A_Efron Yeah i am thanks 	positive
+497	general	Looking forward to camping this weekend! It'll be my first time in eastern Oregon! 	positive
+498	general	@muppmupp She is finished unpacking  so now is the time to get in and make a date 	positive
+499	general	make up sex FTW 	positive
+500	general	@vipvirtualsols I wouldn't have cared so much but ppl were complaining, on a daily basis, about the amount of status updates 	positive
+501	general	@ofwarandwisdom  and that makes me sad.	negative
+502	general	@jessicajaymes1 Hahaaa, so funny you called at that time  Did you find the tanning cream? Kisses	positive
+503	general	good morning tweeters  much to do for today. Lets get it started  .	positive
+504	general	@Bullpigology101 oh.. if it was near your mom's i'd of said we should go!..but its not.. 	negative
+505	general	Nice knowin' ya Spring! It was a nice two weeks. See you next year! Boo for 100 degree weather tomorrow! 	negative
+506	general	@davedays http://twitpic.com/5o0bh - yay Nerdfighters! xD i so wanna read them, but they dont sell those books over here 	negative
+507	general	@jimmywayne the concertonight was amazing.  thanks for reading my shirt!	positive
+508	general	Holy shit. AU$120 for a 360 game? 	negative
+509	general	Ripley is missing Sarah  http://apps.facebook.com/dogbook/profile/view/540402	negative
+510	general	@wendywing So funny we got as far as the end of the northern motorway (without passport) then the heavens just opened, I was droped back 	negative
+511	general	Alone at adella's.. She's napping,I am working!bye bye nappy nap 	negative
+512	general	@serenetan haha...ok i shall bury myself in my books again 	negative
+513	general	shopping for Pop's Art supplies at dickblick.com with help of Norman 	positive
+514	general	Up since 6am.. Ive got uni tonight nd my mates bday party on saturday.. Yey 	positive
+515	general	@Aprilknob really??  i wish you lived closer then. you could do my nails and then we'd go rip LA a new one.	negative
+516	general	: No sun for me this weekend  - getting blood taken now...	negative
+517	general	so so sore. feels as though have been pummelled all over. but why?? i demand a reasonable explanation!!! 	negative
+518	general	@andrewzahler !! dammit you must look pimp!  This is the first one I am missing in 6 months because my bike chain is fubar   I am sad	negative
+519	general	@DillyeoTess is a steeler's fan y'all! We are going to be FANTASTIC friends 	positive
+520	general	needs to find an outdoor spot to chill...no parks in w'side 	negative
+521	general	@burajiru: I love &quot;Dancing Queen&quot; (ABBA) too!  ? http://blip.fm/~6isrh	positive
+522	general	@BritRoshambo  i know! i even signed in and everything. 	negative
+523	general	Finally got my twitterific back on my iPhone stupid thing crashed I had 100 new tweets waiting for me  bed time Disneyland on Tuesday!	positive
+524	general	Feeling better than yesterday 	positive
+525	general	long weekend is never as long as it seems... never... 	negative
+526	general	@LizMyxx same here... except instead of a cat I got a teething baby 	negative
+527	general	@_s3th http://pastie.org is quite better 	positive
+528	general	Good night/morning to Tumblr and yaï¿½ll  http://tumblr.com/xkc1wwscy	positive
+529	general	Two months ago, I became irrelevant. 	negative
+530	general	When Sundays are not Sondays... 	negative
+531	general	at home, sick.... 	negative
+532	general	@Jonasbrothers Hey How are you guys can get tickets to see you in london but no-one will come with me  and i really wanna come msg back xx	negative
+533	general	@helloimmeg Tiger Balm on the temples works good for headaches.  Bit smelly but good lol.  I maybe too late for ya though 	positive
+534	general	Just so so glad it's Friday - had a looooooooooooooong week 	negative
+535	general	Im sad. We couldnt find the store that has TOMS in Elon. 	negative
+536	general	@LittleFuryBug aaah SO looking forward to this album!  I'm in love with your voice! x	positive
+537	general	in germany now its the afterpart! bmth was beat 	positive
+538	general	Janell 's birthday is an hour and 16 minutes away. I'm not goin to be there to celebrate it wit her. 	negative
+539	general	@runningbrit not online a lot up north, we don't have wirelesss  so sad. just on my twitterberry.	negative
+540	general	--eating-- 	positive
+541	general	@sweet2th2 ....It usually does in the end.....  . .....  but hey! Tell me more about algebra.... or any kind of bra...  *smiles back*	positive
+542	general	@caoimhetracey @caoimhetracey well u can copy the link into a new window when c&amp;p comes! I have! I look spazzy! 	negative
+543	general	I'm so feckin tired  	negative
+544	general	Good morning, tweeters. My laptop is back @ the apple store. Hopeully I can go get it today. I miss it... 	negative
+545	general	so exhausted, think i'm gonna sleep. g'nite, twitter-heads 	positive
+546	general	@BriannaArroyoM hey nuffin much chillen u 	positive
+547	general	Lost is making me cry 	negative
+548	general	@thestefunny sadly, i am lol i never get to eat good anymore 	negative
+549	general	Perfect Dark on xbla soon? NICE! now...how about freakin' GOLDENEYE! fix the copyright problems,and release it RIGHT AWAY PLZ,k thanks 	positive
+550	general	another sunny day, happy Bank Holiday everyone 	positive
+551	general	@DavidArchie : Have a nice week. Welcome to Asia the second time  , have fun	positive
+552	general	I'M SICK!!!  and tomorrow is the Lauren Conrad signing but u know I aint gonna miss that for the world	negative
+553	general	I need someone to play by play the game for me cause I have to work  Geaux Tigers!!! Kick that Texas ass!	negative
+554	general	Is there anybody can tell me whats wrong with the tweeterwall? It sucks 	negative
+555	general	@JamieHS Haha. Got a craving for it now too. 	positive
+556	general	School again tomorrow.  I'm going to have to live through another hectic year! I miss Galatians! 	negative
+557	general	Why to I keep pressing b instead of space?? I digress. Had been supporing the no6 works Ginetta all w/e. Died at 0330 (fuel pump)  #lemans	negative
+558	general	tired...headache...not fun 	negative
+559	general	@colmr it still was worth going to. 	positive
+560	general	Kickin it in Crete... 	positive
+561	general	Watching &quot;the tonight show w/ CONAN O'BRIEN&quot;...  can't leave for munchies! Ugh	positive
+562	general	bout to go to bed... pretty good day for a Monday. 	positive
+563	general	@shesgot2haveit I wanna seeeeeeeeeeeeee  Will you DM it to me? Or text me!	negative
+564	general	@alfredscakes Male Bonding and all that?  Sheild wall. Evocative.  Ty 	positive
+565	general	Watchin movie awards 	positive
+566	general	@Steve519 Wow, if I had the money, I would be all over that. I miss playing games and writing about them. 	negative
+567	general	@PaulSRudd so much for coming back 	negative
+568	general	@Popher lucky, it's deff a sub-zero temp for me in my room 	negative
+569	general	@blindtex52 Wow that's a lot of twitter time at your disposal then! 	positive
+570	general	Happy Mother's Day to all the Mommiessss 	positive
+571	general	@KGILLA Hey there is it was nice seeing last night while I was hanging with @ShawnKnightShow 	positive
+572	general	@unitechy @Shadez is all mine  #twpp #shadez	negative
+573	general	@ROXfeelsLOVED its 8:08pm here lol XD i went shoppinggg todayy D spent bout $100.. haha im going again on saturday  u?	positive
+574	general	@WayTooTragic no. Fucking. Way! 	positive
+575	general	Hawaii is killing me right now.. I wish i was in the city 	negative
+576	general	my phone is dying, but my charger is across the room.  I'm so comfortable I don't feel like getting that shit.	negative
+577	general	@ianhislop Welcome back, Qatar is getting a bit warm now 	positive
+578	general	my body hates me. i slept for an hour and now i'm wide awake. 	negative
+579	general	@rubydoor hi ruby, u said u were painting yesterday (i think, lose track of time) what are you painting? can we know the concept/subject? 	positive
+580	general	Is whipping up a bunch of frownies                    	negative
+581	general	just woke up. me and brennan shot lacrosse balls real hard at joey today. i love doing that 	positive
+582	general	Didn't make it by here today.   They are saying we will have snow tomorrow. WTF?  It is Tennessee.  It doesn't even snow here in winter.	negative
+583	general	I wanted to BBQ tonight, but I can't taste anything due to this cold... so no BBQ for me! My favorite food too! 	negative
+584	general	I am stuffing my face and making vids with my sister  woop  i love saturdays	positive
+585	general	@mooshoopork Hey, girl! 	positive
+586	general	@Krabholtz411 I give a crap  so what you talking bout anyway?	positive
+587	general	The night is going too quick...barely just got home...don't wanna go back to work in the morning...   I forsee redoing stuff I did tnite	negative
+588	general	bah. why am i so lame and boring? 	negative
+589	general	@zzwhitejd That's my girl.  Re: NASCAR	positive
+590	general	Spa day today...hot stone massage 	positive
+591	general	@FrannyM101 ur Niley vid ROCKED!! Haha, you should make a Niley Series if you really love the couple. 	positive
+592	general	Sipping some sweet tea in Virginia....yum! 	positive
+593	general	my tummy hurts! 	negative
+594	general	@johncmayer 'tastes like lonely'. Aww that is sad and strangely familiar. Red wine and a hot pocket is my kind of lonely. Ha good times 	positive
+595	general	sipping peppermint tea... whole teapot to go 	positive
+596	general	@RosalieHalegirl want to be? 	positive
+597	general	@bethanyhb meee toooo 	negative
+598	general	@Kawaii_Jadee  http://tr.im/nIAi  This is what im looking at, first thing though, might find somethin else yet 	positive
+599	general	Using iSync to sync my old Sony Ericsson is annoying. I miss you iTunes sync and I've only been without you for 13 hours 	negative
+600	general	@maxrandall no unfortunately not. Too much cleaning to do  ...	negative
+601	general	yummm the best tasting rice crispees ever! It had marshmellows 	positive
+602	general	@wicklekell we play spurs I think next week maybe that's why he rested them, I know we play city too in a few weeks 	positive
+603	general	Playing kings cup with the friends!!  soo much fun cuz I'm not picking up the last king .. Good luck so far at least	positive
+604	general	Wishing Jared was not at work..... 	negative
+605	general	@DavidBlue I just heard 	negative
+606	general	I just remembered that I wanted to be a vocalist for Cirque du Soleil. I miss that dream. 	negative
+607	general	Waaah, asshat at CVS yesterday shortchanged me  I paid 10$ for chips.	negative
+608	general	Day one of ez fill is undeway.  Not at its best either       Its lunch time~ time to breathe!!!!!!	negative
+609	general	@africafeed note &quot;I choose..&quot;  personal convictions..not quorum consensus	positive
+610	general	@LuDayna empire of the sun and frittenbude 	positive
+611	general	@arianakills sorry baby can't come tonight 	negative
+612	general	@ericjstar I know I'm not mad I was only joshin...but it feels that way heh...but I'm not going to be negative 	positive
+613	general	one more show today and im done till the end of school 	positive
+614	general	While we are calculating the results you can click on any of the following links:!!!!!! no sale qe filosof existencialista seria 	negative
+615	general	God....... This is very weird. I am sitting here like a spazz.  YAY FOR SPAZZ!!	positive
+616	general	OMG... What a Beautiful Day!!!  	positive
+617	general	I am a #Lostafarian. I smoke weed and watch &quot;LOST&quot;!!! NOT!! 	positive
+618	general	@danphelan Urgh, it was just the video, and they cut the Robots part!!! 	negative
+619	general	Couch, oh welcoming couch. Sofa by another name, would always feel this comfy. Sadly, I snore 	negative
+620	general	On our way home from our 'couples date'. Had so much fun!! Will definitely do it again 	positive
+621	general	Hah Yeah! 	positive
+622	general	@GrowWear   MY Pleasure MiMi .  I've voted for @flowski on the official ballot at #greatsquid shout-outs http://bit.ly/6iH4M	positive
+623	general	Have had this headache all night. @AshleyHellaGoes made my night better tho!  goodnight.  &quot;Neon Moon&quot;- Brooks &amp; Dunn.	positive
+624	general	@EmmaCossey on set exclusives eh? Tricky area to be in 	positive
+625	general	@Xelgen We heard that rumors, but you think that is true? since I personally heard not 3 tons but 3 million  anyways lets live and see 	positive
+626	general	@P1prenelle Salut  @guiguilap Salut! Exactement pareil que toi,sauf pour le the et le fromage blanc ^^	positive
+627	general	Back sore... 	negative
+628	general	so in that way we will be together in spirit, if we can't TWEET!  	positive
+629	general	@YoungCake ive missed you 	negative
+630	general	@kayla_maynard So I'm glad you've got thick skin, because you'll need it, bitch. Say something.  Please.  	positive
+631	general	RAWWWWWWWWWWR! i need more followers  &amp; tell your friends to follow me                                                          -bellababa	positive
+632	general	i will say it out loud - i miss you a-hole and your answers to my iPhone questions. now who will help me upgrade to 3.0? 	negative
+633	general	@jaithemon     inbetn, a very  good evening  !	positive
+634	general	In line waiting for Metric part II!  Gonna be pretty far back tonight. Bummer after last night. I'm easily spoiled... 	negative
+635	general	Whyyy does itunes take sooooo long :@ ive not got anything else open either 	negative
+636	general	@LondonGirlinLA Not in London anymore.  Westside guy living in the Valley these days. But I was a Kilburn guy for a while. Miss it! 	negative
+637	general	@Irish_vampire have fun fab wknd to u both 	positive
+638	general	PregZilla is scheduled for labor induction on Wednesday, June 3, 2009! Yay! We finally get to meet Jack! 	positive
+639	general	I took internet off my phone. Now I can't check twitter on the go.  I suck.	negative
+640	general	The world is asking the question . . . WTF is a Tic Tac Toe Ten?!?!: http://digg.com/d1sYD1?t . . . I think I've found the answer 	positive
+641	general	chillin wunna talk to bowwow!! 	negative
+642	general	OMG.... Kitten is asleep.. WOW. When to bed at about 8:30. Whatever my mom did. Thank you. 	positive
+643	general	At work 	negative
+644	general	@JonathanAalbers  #photography Nice. I esp. like Artis Amsterdam II and Spanish Ruin IV 	positive
+645	general	@mommapuff I'm sending a hug through Twitter.  #happybdaykrisallen #happybdaykrisallen	negative
+646	general	Just got out of the shower. went camping 	positive
+647	general	where can I watch JONAS!!?? ahhh... living in Austria is sometimes so NOT cool!!! 	negative
+648	general	is hungover and hurting real bad 	negative
+649	general	@Noetical me too 	negative
+650	general	super pissed this SHITTY quarter dropped my GPA by .07 	negative
+651	general	Vacay next week and can't stop day dreaming about it- beautiful west coast here I come 	positive
+652	general	suddenly i really miss my Sisters  wish you all are here..	negative
+653	general	Last night, at the wedding, I really hurt my knee. Apparently I was drunk enough that I was able to shrug it off. Killing me today... 	negative
+654	general	out to the store with my mother  qonna qo put food in this mother fuckinq house- its about time! i want munchies &amp;oranqe soda &lt;3 yummy!	positive
+655	general	@deniseinaldo Whuuut?! Is it Hot Korean Actors Memorial Day, karennn? LMAO. 	positive
+656	general	New video coming up pretty soon 	positive
+657	general	@geraldgsantos  thank you 	positive
+658	general	@JennysMyName Yeah, it all worked out  And thanks again for telling me this morning.	positive
+659	general	with john!! 	positive
+660	general	@Triona Have just switched to o2 for better service. Vodafone only axed roaming for summer months. Ends in Sept 	negative
+661	general	@mddwicz http://twitpic.com/6qq7u - awwwwwwwwww its soooo cute! lol its not real right? ginger might eat him if it was... 	negative
+662	general	Britain's Got Talent final tonight! 	positive
+663	general	@DAWIIZME lmao!!! ummm duh gurl I need to buy me some more v-necks I like em!!! 	positive
+664	general	I think there's something wrong with Nelson. He's really angry and quiet 	negative
+665	general	if i go to california, and my aunt drives to monterey bay, im going to hollywood for AT LEAST a day 	positive
+666	general	the yelling is over . . Blah yo quiero crackers . . 	negative
+667	general	@xxdebixx Where are YOU? 	positive
+668	general	@i_am_a_shark i knowwwww. its going to be jolly good. don't worry the weather men are hardly ever right  x	positive
+669	general	@FraandS you are cute... will you be my fraand.. extending the sheep 	positive
+670	general	@BmoreBaby7980 I'm on it kid. 	positive
+671	general	(For all you insane party-goers)  	positive
+672	general	We did @MissKellyO, he's doing that male &quot;I am doing this under duress&quot; thing isn't he... we'll give him the benefit of the doubt 	positive
+673	general	Time drags by awfully slow...the last thing I should do is read twitter. Its beginning to ruin my day. Ugh 	negative
+674	general	Why oh why did I have to be a genetic throw back and have wisdom teeth, owowowowoowowowowoowowowwwww 	negative
+675	general	cleaning the house... just cant seem to get my act together and keep writting 	negative
+676	general	@prateekgupta high??... right in the morning??  	positive
+677	general	@JonathanRKnight 	negative
+678	general	watched Skins for about three hours, so now i can go to bed...goodnight twitter! 	positive
+679	general	VERY good night except for the end  now watching I Am Sam with Rachel and Tarynnn goodnight twitter&lt;3	negative
+680	general	Yaay!! Bothers and Sisters!! Woo-Hoo!! 	positive
+681	general	@justicereyes 	positive
+682	general	Exam went well today 	positive
+683	general	@libbyoliver Thnx. very kind of u. 	positive
+684	general	show tonight w/ oh the blood. yea. 	positive
+685	general	I want to see taking back sunday again.  two times just isn't enought for those lovelies	negative
+686	general	@AlSharpTongue forgiven. it doesnt take much! 	positive
+687	general	@DonnieWahlberg Ohh.. can`t wait to see you soon!!! Only 2 more weeks!!! LOVE YA!! 	positive
+688	general	@rache111 well each I think you know my preference but cats 	positive
+689	general	last day of spring break means homework 	negative
+690	general	@jeremyghicks Ha ha! Awesome do it for a week then. 	positive
+691	general	Just had a deam there was 3 killers who exscaped from jail to find me and tried killing me nick &amp; killed 500 ppl  ugh	negative
+692	general	I wanted Cavs to win. 	negative
+693	general	awesome day, extremely shitty ending ..... a girl got stuck under the motor of a boat right next to me  i hope she is okay	negative
+694	general	I'm done with work!!!! Oh and it starts to poor down rain #fail 	negative
+695	general	april is in the house 	positive
+696	general	@KhloeChanelShow okay 	positive
+697	general	Leaving 	negative
+698	general	just got back from working @ MACYs. dayyuummmmmm.. it is exhausting when you hadnt worked in so long!  hitting bed early.	negative
+699	general	@Mrs_NickJ07 aww its alright they are worth waiting to see 	positive
+700	general	@Alyssa_Milano we want a 9th season of charmed 	negative
+701	general	@LittleFletcher haha, your songs do sound good so keep going (: thanks for your reply 	positive
+702	general	oh no, now my cousin is trying to eat my laptop 	negative
+703	general	@markthompsontv sounds to me like the hostess cakes with the cream filling 	positive
+704	general	watching the oc on my ipod touch while on break at work! love 	positive
+705	general	i look around on the websites. 	positive
+706	general	Struggling with work 	negative
+707	general	@TheEngTeacher yes I believe I do. I am certain your hubby would know it more though 	positive
+708	general	@tequilasam FB has been an arse all evening.  Will wake up to a shirtless pic then. ;)	negative
+709	general	Why me always hungry? 	negative
+710	general	@ausi1 If you're happy I'm happy 	positive
+711	general	@ThisisDavina does Jackie  have a passport? may i  borrow her?  need to lose those last stubborn 50 pounds of baby weight--  	positive
+712	general	Lakers won game 7, that means they'll kill the Nuggetts!!!!! 	negative
+713	general	i'm missing him more each day 	negative
+714	general	@Twit_nut Thanks for the feedback 	positive
+715	general	@paulriggall Me too  Why am I not going to Glasto?! Stupid girl! Crosby, Stills &amp; Nash are playing too!	negative
+716	general	http://bit.ly/s29fR I've noticed a big drop of views on my website...  http://bit.ly/s29fR	negative
+717	general	My mom wouldnt let me get a pink blingy color for boy miley! 	negative
+718	general	@mikeneumann criteria for ordering checks?  That they print? lol  Hey, it's your printing company that's being picky, not me 	negative
+719	general	@JackieInChgo Sick kid...oh no    Umm Happy Mother's Day?!	negative
+720	general	@vampirefreak101 Unfortunately, NY probably isn't gonna let up on him either. 	negative
+721	general	I hate headaches 	negative
+722	general	and now I'm just wondering why we didn't try to just avoid this huge mess, but then maybe it all happens for reasons! I'M CONFUSED. 	negative
+723	general	Pictures from the Quiz Bowl ---&gt; http://is.gd/JhTr Go @DougEnright! Way to capture some priceless moments 	positive
+724	general	Just got the shaft again....and no, not in the good way 	negative
+725	general	Hello  Please message me if you're using TwitterFox! Hahahaha. I'm having a hard time downloading.	positive
+726	general	@babyangelromero pistol is my friends dog i was watching for awhile but i dont have him anymore 	negative
+727	general	Going for a run, it's been over a week since the last one 	negative
+728	general	@lovelessandmore 	 And I hope you is really you. Internet is cool, you never can be sure. 	negative
+729	general	@afutrell Yep, i was too far away to speak 	negative
+730	general	god please save my indo credit  i dnt wanna go to summer school	negative
+731	general	Omg, mum told me -if we had known about jobros gig in london a couple of monts ago, i could have seen them on my way to france  damn it!	negative
+732	general	@OGBERRY Whatz Good, O???   	positive
+733	general	Silver lining of my sick day. Saturday Rock the Deuce was All Time Low. And I have it recorded. @JackAllTimeLow cheerin' me up. Night. 	negative
+734	general	@AllieMcCaw girl i got you 14+ hours is nothin listen for the &quot;i will always love you&quot; by whitney houston i'm singin' it to you from here 	positive
+735	general	Chilling at home, w/ my new MacBook and Sims 3 	positive
+736	general	@ReachMagazine I would like that very much! 	positive
+737	general	Good Morning Everyone 	positive
+738	general	Watching Taylor at NBC! I missed half 	negative
+739	general	@newmanzoo A small price to pay.  I know u aren't enabling. That's why I sent it to you. U r doing it all right!! @PartnerinSANITY	negative
+740	general	is slowly gettin better yay! feels SO much better. thanks God 	positive
+741	general	@JoyVBehar this is what you look like on TV in South Africa, similar to how you look in the US! Ha, ha  http://yfrog.com/3o3eqj	positive
+742	general	@lisa08x3 yea u prob rite.. 	negative
+743	general	@Shar_ds @cazm I'm not going to make it  way way to ill....	negative
+744	general	@aissies makati and fort are areas we're looking at. my brother wants to stay in the &quot;hood.&quot; haha! 	positive
+745	general	@csijourn hey ma'am. it's been a long time.  guess i'm still going to here some updates from csi via twitter huh? ;) takecare. ?	positive
+746	general	@robsteadman Just some bits for my holiday 	positive
+747	general	Can hardly hear out of my ear 	negative
+748	general	What?? But I left a message 	negative
+749	general	@thestaciesutra thanks for the #FF 	positive
+750	general	@JuanaMahadik Awwww...your time will come, dont you worry! 	positive
+751	general	Saw UP; it made me miss Zed. Supposed to bake bread tomorrow; also should be marching for PP at PRIDE. w00t? I guess. Tired, legs hurt. 	negative
+752	general	oi!!  you're all mean to me 	negative
+753	general	@JBARSODMG beezy not a trendin topic nomore 	negative
+754	general	@JasonBradbury I hope you're right about this 	positive
+755	general	In Norway the clock is 12.28 AM now, and I can't sleep  Drank an energy drink, hope it helped xD Hmm, what can I do.. yes music! &lt;3	negative
+756	general	@gjessicaF oh crap it finishing  It'll be on again!	negative
+757	general	i'm soooooooooo exhausted. 	negative
+758	general	@RossCode and marketingfolk who promise they'll take you to the next level.  	negative
+759	general	BOREDDDDDD. pfffft hardly any more exams left! 	positive
+760	general	And so begins an incredibly busy week.  Mental note - take the occasional time out to stop and smell the roses.  	positive
+761	general	@katabolickatie not on my tv !    im watching a that 70's show marathon !	negative
+762	general	@littlelindseyyy i hate it 	negative
+763	general	FRANCINE IS VERY EXCITED SHE WILL SEE DRAKE &amp; LIL WAYNE IN AUGUST 	positive
+764	general	I am SO sunburned  oh well. hiking was amazing!	negative
+765	general	@strawbrykiwi So glad to entertain! Was it the pooping in the yard part? That seems to do everyone in 	positive
+766	general	http://twitpic.com/69bet - Sigh* I will forever look like a kid. 	negative
+767	general	spirited away - one of the greatest films I've ever seen. and the soundtrack is amazing too. love it 	positive
+768	general	I was feeling sad today. I don't wanna understand everything that I'm understanding 	negative
+769	general	@jan_borg_larsen Absolutely! I'm working on it with the Net, however that takes time! In the meantime... I just smile and dial 	positive
+770	general	The Nanny 	positive
+771	general	Drinking coffee....yummy 	positive
+772	general	@FloFalcons41 hmmm.i know.  Mines do too.	positive
+773	general	misses summer time, only rains around ... 	negative
+774	general	In whistler. Canucks  Taking an evening stroll in the whistler village.	negative
+775	general	The Sims 3 Ð½Ð° iPhone Ð½Ðµ Ð²Ð¿ÐµÑÐ°ÑÐ»Ð¸Ð» 	negative
+776	general	this club is a fanny fest. 	negative
+777	general	Sometimes (often) I wish I could just escape from what is reality (tech, electricity, etc) and just live in my family's cottage in the UK 	negative
+778	general	my friend's dad's funeral is today 	negative
+779	general	I'm officially a neophyte on Vampires. Yes! 	positive
+780	general	What also sucks is that I twisted my ankle making this video!  These MK videos are so freakin hard to do 	negative
+781	general	wants Matt back 	negative
+782	general	I seriously just need to get out of here for the day!  No grading for me tonight; TRISHATIME instead! 	positive
+783	general	@Captainwalker Jamestown? 	negative
+784	general	Off to the Yard for a very yummy pizza 	positive
+785	general	@shivaranjan  no.. I got the meaning..	positive
+786	general	TODAY WAS CRAZZY AND HELLLUH FUN 	positive
+787	general	I have a massive ear infection   OUCH  |*cupcake*|	negative
+788	general	@NanaSuzee Yes, can be... but I have no other.. and Worth it!! because then, I have many vacations!!  Lol	positive
+789	general	getting tatted!!!   fuck yea...gettin that 1/2 sleeve goin!	positive
+790	general	@DaisyPoppets  Has hayfever decided to attack you aswell as me today too 	negative
+791	general	Parents are coming to spend a couple of nights at the new house.  Eek!  I'm hardly ready (not ready at all).  Oh, well... 	positive
+792	general	What does she have, that I don't?! This isn't fair 	negative
+793	general	Everyone's so tense today  I, however, am in an excellent mood. About to go make up for my lack of waffle eating. Here's to three Neros.	negative
+794	general	should i go 4 a run or walk the dog? cant do both, she cant keep up 	negative
+795	general	Do you know this feeling when words from a other person running trough your mind and you have to smile? That happens to me right now 	positive
+796	general	@soonerlove_13 why thank you  oh you might want to change your twitter now	positive
+797	general	Dragracing in the rain? I don't think so... 	negative
+798	general	@OliverRanch Too bad they weren't rockin' robins 	positive
+799	general	playing call of duty with bro  	positive
+800	general	@evvss lol! We shud changeee! Hufft.. Tp masih sayang pk xl  http://myloc.me/2T1c	negative
+801	general	planning on trading in a bunch of my old games for sims 3 tuesday. 	positive
+802	general	Greetings from the Sun and Fun Capital of Missouri: Madainn mhath. I see a few familiar names here.  http://bit.ly/QCEWU	positive
+803	general	i want my soy chai. 	negative
+804	general	School for a couple hours. Leave early to go to vegas 	positive
+805	general	@_neda do some laps for meee! I can't work out today 	negative
+806	general	@blankerrs me too  i refuse to put lots of money in my bank or else i'll go on insane online shopping sprees lol.	negative
+807	general	@Teanah just tried the uncharted beta code you gave me.. didnt work.. me sad 	negative
+808	general	Guys, I'm pretty sure I need an operation to cure my RSI. RSI is caused by too much typing/strain to an arm. It really hurts when I type! 	negative
+809	general	Please see all my totes and purses at http://www.zibbet.com/iadiedee - low prices and good quality. All handmade by me. 	positive
+810	general	about to watch some tv.. thinking about some one special. 	positive
+811	general	@JuliaRosien Funny you should mention that... i was enjoying a little lychee martini a few short hours ago with @iconic88 . Was heavenly 	positive
+812	general	BNP win a seat in Europe 	negative
+813	general	I really want to watch &quot;Nurse Jackie&quot; but I don't have showtime 	negative
+814	general	ready for the day to be over already...work until 5..can't do it 	negative
+815	general	Hey @rasofficial I have to go!  but before I go please check out www.myspace.com/kaseygriffithmusic  (RAS live &gt; http://ustre.am/3u3g)	negative
+816	general	Uy, Hola followers 	positive
+817	general	...*arrrrgh* What a bad weather for a wedding  rain, rain, rain...........................	negative
+818	general	@LdyDisney I missed the good night, so I'll respond with good morning. 	positive
+819	general	Errr, @erickimberlin I was soposed to go to that show tonight too! At the Showbox, right? I have tickets, but I can't get to Seattle.. 	negative
+820	general	2 the gym now i go...mall rat after...then home 4 a few chores...enjoy the weekend guys and good afternoon Manila...love ya' tweeps 	positive
+821	general	@avitania Fun memories huh! Now I have the chant stuck in my head 	positive
+822	general	Morning...starting my daily routine...DMD, music, &amp; lovin life!!...   	positive
+823	general	At a basketball game with my darling cassie. 	positive
+824	general	@RICKdaDICK didn't get to set it owt.. 	negative
+825	general	wanted to watch Diana Danielle on TV but was vetoed by Mom 	negative
+826	general	I seem to have difficulties sending texts while signed on Aim. Progress with the letter are going smoothly 	positive
+827	general	@SorenLorensen Driving thru Shepton Mallet on way 2 Brizzle &amp; feeling mighty depressed on sight of Glasto signs 	negative
+828	general	@KittinVittamin You're not small, you're FUN SIZED!  hope you're having great time, give ag lots of hugs	positive
+829	general	@tommcfly http://twitpic.com/3gvkz please tell us if you like it  we have kept it &amp; are hoping to give u it at a signing or something? 	positive
+830	general	@allieholden91 I know!  they say HI Auntie Allie! lol	negative
+831	general	I miss you MEEDOOO !! the office is horrible without you 	negative
+832	general	@jmcewan @donniewahlberg You don't have to be nervous, nervous, they're gonna give ya full service, service! Minus Stay w/me baby! 	negative
+833	general	@soapydoc you know i dont know if we have that store here anymore i think it closed up here   i liked buying xmas gifts there	negative
+834	general	In other words I have to get jaw surgery 	negative
+835	general	Why am I so happy.  Tests  http://tinyurl.com/o2s8bv	negative
+836	general	@DawnRichard hello dawn  youre fine	positive
+837	general	unpacking 	negative
+838	general	@mmitchelldaviss do you know what word is exactly in the middle of your name? Hell. What's that supposed to mean? 	positive
+839	general	Tyson AAR is sexy ) ILY hosuebunny 	positive
+840	general	@peowang haha no problem!! 	positive
+841	general	@Jessicaveronica besides crazy is not necessairily a bad thing  people do extraordinary things when crazy 	positive
+842	general	@youngboydee  I don't know...it be wilin sometimes...make sure u come on earlyy next time, tht might b what it was	negative
+843	general	Why does it have to rain on my child minding day? No park based yummy mummy fun today 	negative
+844	general	Anderson Silva vs. Forrest Griffin @ UFC 101. That's a hard one to cheer for, but it should be an awesome fight 	positive
+845	general	ew. An &quot;impudent strumpet&quot; is trying to follow me 	negative
+846	general	Finished watching Maneater it was AMAZING! Erin wasn't really Erin he was Ethan. And then mama died which was sooooo sad 	negative
+847	general	i have a zit!! 	negative
+848	general	not long now till we all find out who wins.  	positive
+849	general	hope paltalk is fixed soon  its the weekend!!!! dam u paltalk	negative
+850	general	has found someone incredible, only problem is they live in another country. Life sucks  lol	negative
+851	general	@CHRIS_Daughtry enjoy the movie 	positive
+852	general	WANTS BRAND NEW TICKETS!!! 	negative
+853	general	cant wait to go home.. its going to be a fun filled action packed weekend. 	positive
+854	general	The movie awards are great 	positive
+855	general	@barcampbmore Had a family thing come up and couldn't make it  Will you guys be posting a schedule or details of what happened online?	negative
+856	general	is ready to consume coronas in honor of CINDO DE MAYO. 	positive
+857	general	@carolinezhang click on the following link; there will be a remove function.  Just click remove for anyone you want to &quot;unfollow&quot; 	positive
+858	general	@twisted_utopia Justin says i meant &quot;polygamy&quot; since we'll b married n stuff. whatevs. as long as the smut god gets sex, im cool. 	positive
+859	general	@WalterFree I love every britney song and I'm positive I have britney songs you've never heard of lmao I think I'm obsessed 	positive
+860	general	@paulroub my dog is cuter than your dog.  	positive
+861	general	my friend is pregnant!! we're all happy! 	positive
+862	general	considering going back to red.  I miss it.  	negative
+863	general	@jeanneava I must admit that I was bored last night - so I was looking for 'tweeties' around my hometown. 	positive
+864	general	@theorangegirl again?! You went to Pink? I'm so jealous  I heart her 	negative
+865	general	@ThePanIAm i feel your pain, so much. coming home after travelling/touring is the worst thing ever. i just want to go away again 	negative
+866	general	let today pass fast  what a day man!	negative
+867	general	@AmyyRoss Happy WTK birthday  but also SlamDunk after party anniversary ?? =] x	positive
+868	general	getting ready to head out to Camp Allen.  Unless somethings changed, that means no phone service for about 24 hours. 	negative
+869	general	finally updated my phone but it's not jailbbroken and more 	negative
+870	general	Damn! He has a ring on that lockdown finger! 	negative
+871	general	DAMMIT. The Cab songs are just killing it on my ipod today  Ian I miss you &lt;3	negative
+872	general	feeling better...i think its starting to hit that the rest of my friends are graduating...what am i gonna do next year 	negative
+873	general	@Nuff55 Thank goodness... I felt SO bad!  #warmfuzzies to you both!	positive
+874	general	@seanownsthewrld: i wasn't invited? 	negative
+875	general	@chelseashake you want me to teach you 	positive
+876	general	I rather be in bed cuddling w --------------- then be outsidee 	negative
+877	general	I have a sore throat.  I'm going to bed. zzz	negative
+878	general	I feel so bad for dad. He's fixing my car in the panera parking lot when he could be sleepin right now 	negative
+879	general	Happy Sunday everyone... Drinking my decaff and listening to music to wake me up... going outside for the day its WAY too nice to stay in 	positive
+880	general	says and just like that, you made me smile again! 	positive
+881	general	@Wafuku_kimonos Thanks!!!  unfortunatey theplayer is not working for me for some reason 	negative
+882	general	Nooo!!!!! In the Washington pick!! Ib was the only 1 looking the wrong way!! Nooo!! 	negative
+883	general	Damn Robert Pattinson @ OOK, he deserves. #PARAMORE  haha	positive
+884	general	#squarespace cos I justhad a tooth out 	negative
+885	general	@nowirecoathangr how goes the job hunt and such?  	positive
+886	general	A cute young starling followed me yesterday for food. He got some ham. Do I look like his mum - or just a sucker! 	positive
+887	general	g'night twitterverse! counting down... 1 day, 8 hours and 2 minutes... 	positive
+888	general	@allan_at_rogue Oh, thankyou for the #ff lovin!  Considering I've been a bit scatty lately!	positive
+889	general	Rob Pattinson back home.Good,don't want LA rubbing off on him.Hope he can walk down his streets w/o being chased.Somehow doubt it.Too bad 	negative
+890	general	@misslyndsy Very true. But this is the worst I've seen in the 2 years I've lived in the area. I doubt it will be fixed properly too.  	negative
+891	general	@julie_wang i don't get G4 anymore...      it looks like everyone is jumping on the motion controls bandwagon...	negative
+892	general	still needs quite a number of participants for her research...  http://plurk.com/p/vfz3b	negative
+893	general	Sick still, miserating. @mingandping Pick me and my boo up and take us to LA 	negative
+894	general	@DanFearnley I think that is my best option 	positive
+895	general	@ImWendy I always liked the Arm &amp; Hammer detergent... it's kind of expensive, though 	negative
+896	general	still hungover from yesterday 	negative
+897	general	@egawfroggychick oh dear 	negative
+898	general	@Raeskies ROFL mr m is a flirt aye , rae you should watch out :O and i saw how you wrote your feeling sick , are you feeling any better ? 	negative
+899	general	TM (still) and OME Forums are down this morning. 	negative
+900	general	@Pepperfire LOL - i use to &quot;design&quot; tabletop ads - and knew people ignored my work  how demoralizing!	positive
+901	general	@RussoFans Well, we have been on a revamp xD this time is just a layout + css change and hopefully new graphics &amp; photos for the gallery 	positive
+902	general	old tbs vs new tbs. i vote old... the question will be old blink vs new blink. letcha know in september 	positive
+903	general	@cheyroux Yep, just had the band with us for the first time and it sounds brilliant! 	positive
+904	general	@WeTheWest i sent iT...I had the wrong addy 	negative
+905	general	@TiVo i miss my tivo... my toshiba dvd-r + tivo media server died in a recent cross country move 	negative
+906	general	@kr0y Hmm champloo has kickass kicks n sword fight... nothing good as DN, l0nwlf showd me darker than black... found it great 	positive
+907	general	Frustrated and annoyed 	negative
+908	general	@DanAmrich Have you played the fleabass? I was shocked by how good it was, you should try it 	positive
+909	general	@eyestrained07 Yeah! The top 5 are gone! Gone! Vanished! Kapoot! This is a conspiracy 	negative
+910	general	Has to go get a shot 	negative
+911	general	@PastPresent1 lol...whattup! 	positive
+912	general	Twitter you're the Shit!!!  Thank you for that love!!	positive
+913	general	@hugbubble Im keeping my distance well well away from your comments , this is not good for the male species 	negative
+914	general	Missing her already 	negative
+915	general	Ready to tackle my to do list this week!!! Difficult takes a day, impossible takes a week 	positive
+916	general	@NikkiBenz aww, I wanted to see a picture off it 	negative
+917	general	Past the point of no return. This song is amazing but this part in the movie is so sad!  Christine you bitch!	negative
+918	general	@drscoundrels Thanks 4 the feedback. Appreciate it 	positive
+919	general	Amazing lead camp at staff this year.  Really looking forward spending time with these folks.  	positive
+920	general	Waiting on my cousins 2 get here...graduation started @ 2...they aint never on time 4 nothing!!! 	negative
+921	general	@Brodhe geez ur no fun are you 	negative
+922	general	@kellybinx too late.  it's gone	negative
+923	general	@willyfoo ill bring my mobile charger as well, so i can do a Qik Stream. seems to work well yesterday.  #ctu09sg	positive
+924	general	@LucasCruikshank omg that's awesomeee!! I'm soo voting 4 u! 	positive
+925	general	Heyy Peoples Im So Sadd 	negative
+926	general	@damienmully - you should do use qik to show us what happens offscreen 	positive
+927	general	got tweetdeck still dont understand twitter 	negative
+928	general	tried to watch the fireworks tonight so I could finally see Dumbo, but due to high winds they ended the show just as &quot;Baby Mine&quot; started 	negative
+929	general	No more grated radish... that made me sick today 	negative
+930	general	staci is giddy today. 	positive
+931	general	One of the first songs by Tom Petty that made me become a fan.   â« http://blip.fm/~7rzqd	positive
+932	general	sure do wish I was home! 	negative
+933	general	Good night world.. See you in a few short hours.. 	positive
+934	general	And here we go with the work week... I think my team meeting is in 20 minutes 	negative
+935	general	@k_koehler I wouldn't recommend it. My time probably would have been better spent writing. Or not. 	positive
+936	general	http://twitpic.com/6bpfm - What I am currently reading  XxX	positive
+937	general	@NatalieGrant I sometimes wish life had a reset button. 	positive
+938	general	@rebeccamezzino poo! won't be able to meet you tomorrow &amp; i was looking forward to it 	negative
+939	general	im going to watch supernatural so i'll be back in an hour 	positive
+940	general	Just got done watching Loveless - now I need to buy the manga, since the anime is a fucking cliffhanger 	negative
+941	general	Ooops! Wrong link. That's a skirt I'm thinking about buying  	positive
+942	general	I dont wear tee's  @jason_mraz New Jason Mraz Summer T-Shirts Now Available On Pre-Order! http://iLike.com/t/6tn6	negative
+943	general	@MissNixs I know, right? He's a serial monogamist  Did I mention I left home at a young age, LOL? 	positive
+944	general	@cri_sty yeah! i'm going to see them 18th november 	positive
+945	general	Sorry for the delay.. OurKuwait will be twittering daily for now on 	positive
+946	general	@mcflymusic thankyou for an awesome show tonight, it was our last a-level so especially epic lol, though sorry that Harry hurt his hand 	negative
+947	general	Creating a new path for myself 	positive
+948	general	had a great day today did lots of shoppin and bought twilight and started reading it on the train on the way home 	positive
+949	general	@syrinpt I haven't watched yet. But it's very much in my plans and all because of your tweets some months ago. 	positive
+950	general	and AP hell begins  #fb	negative
+951	general	@beckuhk http://twitpic.com/6v248 - iiii loveeee it   	positive
+952	general	@OFOC No Battle of the Bands at United Skates this year? 	negative
+953	general	Sigh....... I feel like the only twitter user who can't get a profile photo to upload properly. Been a problem for weeks now 	negative
+954	general	Screw saturday schools! 	negative
+955	general	@jonaskevin love you wish i could see you on tour but your not coming to Australia  xx have fun	negative
+956	general	is trying out the medium fish.  hehehehe! It's so cool. Oh wait, no IM COOL! 	positive
+957	general	@DavidArchie HEY DAVID! i finally finished my exams!!!   What's the first thing when you went back to USA? are you going home now?	positive
+958	general	Sitting on a train. A pretty crowded train actually. 	negative
+959	general	@iamjonathancook gosh, can you come to mass and take me to nyc with you? my heart calls that place everyday 	negative
+960	general	my arm is sore from playing Wii...I'm lame. 	negative
+961	general	@fruitlatte hahah no @ayyxD is fretting over the ionic equation. 	positive
+962	general	I just woke up. It's 12.40 p.m. in germany --&gt; LUNCH: Sausages and beans! Bud Spencer style! 	positive
+963	general	harry potter makes me happy 	positive
+964	general	feel let down by people 	negative
+965	general	This is my failing attempt at doing hwk  Help me.  Sorry I haven't boothed in a couple of days, I was busy... http://tinyurl.com/qg83sb	negative
+966	general	Yesterday tried cooking 'Uncle Tai's beef' -which,I think, is crispy dry-fried Sichuan beef- but no oil in the house except olive oil 	negative
+967	general	Up and heading out to sf  map, water bottle, &amp; sunglasses	positive
+968	general	@melissaczech Do it! Do it! Do it! 	positive
+969	general	@vin495 Good night. I hope you get better 	positive
+970	general	@prosperitygal I pretty much just shave him in place of a bath.  He's too old to get into and out of the tub 	negative
+971	general	@Pure_Tone hey there! thanks for the great #movefollowfridaytoblogs idea. You will be mention in generations to come  #cleantimelines	positive
+972	general	going to bed. cant wait to wake up and greet the day with a sunny outlook and an overwhelming need to do things for others.  its hopeless.	negative
+973	general	@rockinrose yep. im a moslem  and you?	positive
+974	general	@VederaMusic Excellent. I just got a 4-pack for tonight. If you guys ever make it back to Birmingham the first round will be on me. 	positive
+975	general	@helloimmeg I hope you get to feeling better.. 	positive
+976	general	I have about 17 hours of updates to check, and my hiptop wont connect to the net, so i have to check on here and cbf'd 	negative
+977	general	Good morning tweeters  did an hour in the gym yesterday can't cough or blow my nose today - its gr8 to be fit lol x off  2 treadmill now x	positive
+978	general	@GPIA7R ...point you in the direction of someone that is clocked in and can help 	negative
+979	general	@Luchilli ....you don't know me... BUT we can't wait to have y'all at newport church!!! safe travels! 	positive
+980	general	Still in the coach and will be for a while longer...my throat is killing me 	negative
+981	general	has had a great weekend in KY. I wish i could take my friends, mom, &amp; mam mam back to Nashville with me 	positive
+982	general	Don't even bother! 	negative
+983	general	@babygirlparis http://twitpic.com/7ia22 - What is this? 	positive
+984	general	whats that, KFC time you say? hell yeah! 	positive
+985	general	Healthy Wishes. I may just start saying that. 	positive
+986	general	@xCurlyWurlyx: i fine too (: no youre not weird  even i wrote a litte story about kirk and uhura  THATS weird!	positive
+987	general	@benshephard Hi Ben nice to have you on Twitter  x	positive
+988	general	I reeeeeeaaaaally wanna go to Stonehenge 	negative
+989	general	Let me know if you find anyone good  I am re-watching the Kathy Griffith special my parents went to.	positive
+990	general	@vprincess have a good night 	positive
+991	general	@trishastewart Just what you didn't want 	negative
+992	general	watching Hannah Montana 	positive
+993	general	ssshh...Dad just woke me up early. Everone is still asleep.  We are going to go for a ride and get some coffee 	positive
+994	general	IM SO SORRY TWIN!! I LOVE YOU!!!! I txtd 'I love you(:' to you! dat was my way of saying &quot;i'm going hme early yea? skipping asa!  LOVE U!&quot;	positive
+995	general	@MiqueasLopez yo son pls send me the slaughterhouse track budden leaked I can't download it 	negative
+996	general	ILM kept me up all night  I will never pass it	negative
+997	general	sitting on my ass yet again 	positive
+998	general	Listening to Prison Sex my favorite Tool song. 	positive
+999	general	My arms hurt today from helping chop down a tree at the farm.  I hate getting old. 	negative
+1000	general	@betchaboy  bummer maybe do a video response, she said she responds to those faster	negative

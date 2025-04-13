@@ -1,0 +1,18 @@
+Model: ffnn
+Dataset: imdb
+Test Accuracy: 0.8480
+Test Precision: 0.8493
+Test Recall: 0.8480
+Test F1-Score: 0.8479
+
+Class-wise metrics:
+negative:
+  Precision: 0.8700
+  Recall: 0.8183
+  F1-Score: 0.8434
+
+positive:
+  Precision: 0.8285
+  Recall: 0.8778
+  F1-Score: 0.8524
+

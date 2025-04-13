@@ -1,0 +1,18 @@
+Model: lstm
+Dataset: imdb
+Test Accuracy: 0.5052
+Test Precision: 0.5108
+Test Recall: 0.5052
+Test F1-Score: 0.4313
+
+Class-wise metrics:
+negative:
+  Precision: 0.5030
+  Recall: 0.8658
+  F1-Score: 0.6363
+
+positive:
+  Precision: 0.5186
+  Recall: 0.1446
+  F1-Score: 0.2262
+

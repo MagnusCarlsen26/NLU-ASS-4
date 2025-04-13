@@ -1,0 +1,4 @@
+ID	Topic	Text	Sentiment
+9	general	This movie was absolutely brilliant, I would highly recommend it.	positive
+10	general	The food was overpriced and tasted awful.	negative
+11	general	The concert was okay, not amazing but not terrible either.	neutral
