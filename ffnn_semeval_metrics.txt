@@ -1,0 +1,5 @@
+Epoch 1/5, Loss: 0.7045, Val Accuracy: 0.4923
+Epoch 2/5, Loss: 0.6389, Val Accuracy: 0.5832
+Epoch 3/5, Loss: 0.5812, Val Accuracy: 0.6421
+Epoch 4/5, Loss: 0.5321, Val Accuracy: 0.6893
+Epoch 5/5, Loss: 0.4923, Val Accuracy: 0.7124 
